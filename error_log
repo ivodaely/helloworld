@@ -1,0 +1,1690 @@
+[04-Oct-2023 07:19:04 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home/simpelbi/public_html/complaint_in.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 35
+[04-Oct-2023 07:21:15 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home/simpelbi/public_html/complaint_in.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 35
+[05-Oct-2023 09:48:20 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 34
+[05-Oct-2023 09:48:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 34
+[05-Oct-2023 09:48:20 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 37
+[05-Oct-2023 09:48:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 37
+[05-Oct-2023 09:52:27 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 41
+[05-Oct-2023 09:52:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 41
+[05-Oct-2023 09:52:27 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 41
+[05-Oct-2023 09:52:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 41
+[05-Oct-2023 09:57:36 UTC] PHP Notice:  Undefined variable: conn in /home/simpelbi/public_html/upload.php on line 5
+[05-Oct-2023 09:57:36 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/simpelbi/public_html/upload.php on line 5
+[05-Oct-2023 09:57:39 UTC] PHP Notice:  Undefined variable: conn in /home/simpelbi/public_html/upload.php on line 27
+[05-Oct-2023 09:57:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/simpelbi/public_html/upload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/upload.php on line 27
+[05-Oct-2023 10:02:18 UTC] PHP Notice:  Undefined variable: conn in /home/simpelbi/public_html/upload.php on line 22
+[05-Oct-2023 10:02:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/simpelbi/public_html/upload.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/upload.php on line 22
+[05-Oct-2023 17:13:53 Asia/Bangkok] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/simpelbi/public_html/complaint_in.php on line 54
+[05-Oct-2023 17:13:53 Asia/Bangkok] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/simpelbi/public_html/complaint_in.php on line 56
+[05-Oct-2023 17:18:36 Asia/Bangkok] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/simpelbi/public_html/complaint_in.php on line 55
+[05-Oct-2023 17:18:36 Asia/Bangkok] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/simpelbi/public_html/complaint_in.php on line 57
+[05-Oct-2023 23:39:21 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/simpelbi/public_html/display_image.php on line 9
+[05-Oct-2023 23:39:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/simpelbi/public_html/display_image.php on line 9
+[06-Oct-2023 08:05:21 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 31
+[06-Oct-2023 08:05:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 31
+[06-Oct-2023 08:09:42 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 31
+[06-Oct-2023 08:09:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 31
+[06-Oct-2023 08:09:42 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[06-Oct-2023 08:13:25 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 31
+[06-Oct-2023 08:13:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 31
+[06-Oct-2023 08:13:25 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[06-Oct-2023 08:16:27 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 31
+[06-Oct-2023 08:16:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 31
+[06-Oct-2023 08:16:27 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[06-Oct-2023 08:18:35 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 6
+[06-Oct-2023 08:18:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 6
+[06-Oct-2023 08:19:42 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 6
+[06-Oct-2023 08:19:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 6
+[06-Oct-2023 08:20:36 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 6
+[06-Oct-2023 08:20:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 6
+[06-Oct-2023 08:21:30 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 6
+[06-Oct-2023 08:21:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 6
+[06-Oct-2023 08:31:20 UTC] PHP Notice:  Undefined index: image in /home/simpelbi/public_html/complaint_in.php on line 6
+[06-Oct-2023 08:31:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 6
+[06-Oct-2023 08:49:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/simpelbi/public_html/display_image.php on line 9
+[06-Oct-2023 08:52:17 UTC] PHP Notice:  Undefined index: foto in /home/simpelbi/public_html/display_image.php on line 11
+[06-Oct-2023 08:52:19 UTC] PHP Notice:  Undefined index: foto in /home/simpelbi/public_html/display_image.php on line 11
+[06-Oct-2023 08:52:42 UTC] PHP Notice:  Undefined index: foto in /home/simpelbi/public_html/display_image.php on line 11
+[06-Oct-2023 08:53:22 UTC] PHP Notice:  Undefined index: foto in /home/simpelbi/public_html/display_image.php on line 11
+[07-Oct-2023 11:12:51 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 11:15:29 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 11:16:50 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 11:17:44 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 12:17:34 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 12:18:04 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 05:19:01 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[07-Oct-2023 12:19:01 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 05:20:36 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[07-Oct-2023 12:20:36 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 05:39:24 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[07-Oct-2023 05:41:44 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[07-Oct-2023 12:41:44 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 05:42:48 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[07-Oct-2023 12:42:48 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 05:53:56 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[07-Oct-2023 05:55:59 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[07-Oct-2023 12:55:59 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/simpelbi/public_html/complaint_in.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 37
+[07-Oct-2023 05:56:28 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/complaint_done.php on line 195
+[07-Oct-2023 09:22:59 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/complaint_done.php on line 195
+[08-Oct-2023 14:30:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/simpelbi/public_html/connect.php on line 8
+[09-Oct-2023 06:47:12 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_image.php on line 5
+[10-Oct-2023 21:29:56 UTC] PHP Notice:  Undefined variable: con in /home/simpelbi/public_html/feedback.php on line 197
+[10-Oct-2023 21:29:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/simpelbi/public_html/feedback.php:197
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback.php on line 197
+[10-Oct-2023 21:30:03 UTC] PHP Notice:  Undefined variable: con in /home/simpelbi/public_html/feedback.php on line 197
+[10-Oct-2023 21:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/simpelbi/public_html/feedback.php:197
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback.php on line 197
+[10-Oct-2023 23:18:43 UTC] PHP Notice:  Undefined index: satisfied-3 in /home/simpelbi/public_html/feedback_in.php on line 14
+[11-Oct-2023 00:18:42 UTC] PHP Notice:  Undefined index: sug in /home/simpelbi/public_html/feedback_in.php on line 30
+[11-Oct-2023 04:11:29 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 71
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 76
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 85
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 90
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 99
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 104
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 113
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 118
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 127
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 04:11:30 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 132
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 71
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 76
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 85
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 90
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 99
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 104
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 113
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 118
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 127
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 04:11:53 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 132
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 70
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 74
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 84
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 88
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 98
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 102
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 112
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 116
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 126
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 130
+[11-Oct-2023 04:12:09 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 71
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 76
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 85
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 90
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 99
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 104
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 113
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 118
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 127
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 04:14:11 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 132
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 71
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 76
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 85
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 90
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 99
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 104
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 113
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 118
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 127
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 04:18:16 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 132
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 71
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 76
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 85
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 90
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 99
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 104
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 113
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 118
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 127
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 04:18:34 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 132
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 71
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 76
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 85
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 90
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 99
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 104
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 113
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 118
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 127
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 04:19:42 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 132
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 71
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 76
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 85
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 90
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 99
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 104
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 113
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 118
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 127
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 04:20:48 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 132
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 71
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 76
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 85
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 90
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 99
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 104
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 113
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 118
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 127
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 06:06:18 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 132
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 71
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 76
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 85
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 90
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 99
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 104
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 113
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 118
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 127
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 06:06:50 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 132
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: ket in /home/simpelbi/public_html/download-complaint.php on line 71
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: tglkej in /home/simpelbi/public_html/download-complaint.php on line 75
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: nama in /home/simpelbi/public_html/download-complaint.php on line 76
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: pb in /home/simpelbi/public_html/download-complaint.php on line 85
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: tglpb in /home/simpelbi/public_html/download-complaint.php on line 89
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 90
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: pr in /home/simpelbi/public_html/download-complaint.php on line 99
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: tglpr in /home/simpelbi/public_html/download-complaint.php on line 103
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 104
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: pc in /home/simpelbi/public_html/download-complaint.php on line 113
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 117
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: pic in /home/simpelbi/public_html/download-complaint.php on line 118
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: urai in /home/simpelbi/public_html/download-complaint.php on line 127
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: tglpc in /home/simpelbi/public_html/download-complaint.php on line 131
+[11-Oct-2023 06:19:40 UTC] PHP Notice:  Undefined variable: veri in /home/simpelbi/public_html/download-complaint.php on line 132
+[11-Oct-2023 07:11:08 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 33
+[14-Oct-2023 00:38:16 UTC] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, array given in /home/simpelbi/public_html/complaint_in.php on line 33
+[14-Oct-2023 00:40:28 UTC] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, array given in /home/simpelbi/public_html/complaint_in.php on line 33
+[14-Oct-2023 00:43:57 UTC] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, array given in /home/simpelbi/public_html/complaint_in.php on line 33
+[14-Oct-2023 08:06:01 Asia/Bangkok] PHP Notice:  Undefined index: complaint_id in /home/simpelbi/public_html/complaint_in.php on line 61
+[14-Oct-2023 08:06:01 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 61
+[14-Oct-2023 08:06:01 Asia/Bangkok] PHP Notice:  Undefined index: complaint_id in /home/simpelbi/public_html/complaint_in.php on line 61
+[14-Oct-2023 08:06:01 Asia/Bangkok] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/complaint_in.php on line 61
+[14-Oct-2023 08:27:00 Asia/Bangkok] PHP Notice:  Undefined variable: KEY in /home/simpelbi/public_html/complaint_in.php on line 61
+[14-Oct-2023 08:27:00 Asia/Bangkok] PHP Notice:  String offset cast occurred in /home/simpelbi/public_html/complaint_in.php on line 61
+[14-Oct-2023 08:27:00 Asia/Bangkok] PHP Notice:  Undefined variable: KEY in /home/simpelbi/public_html/complaint_in.php on line 61
+[14-Oct-2023 08:27:00 Asia/Bangkok] PHP Notice:  String offset cast occurred in /home/simpelbi/public_html/complaint_in.php on line 61
+[14-Oct-2023 01:30:07 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 01:30:37 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 01:30:44 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 08:35:53 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Only variables can be passed by reference in /home/simpelbi/public_html/complaint_in.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/complaint_in.php on line 67
+[14-Oct-2023 01:36:56 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 01:45:05 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 01:45:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/simpelbi/public_html/display_imagex.php on line 11
+[14-Oct-2023 01:47:41 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 01:47:41 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/simpelbi/public_html/display_imagex.php on line 11
+[14-Oct-2023 01:56:50 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 01:56:50 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/simpelbi/public_html/display_imagex.php on line 11
+[14-Oct-2023 01:57:09 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 01:57:55 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 07:09:49 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 07:09:49 UTC] PHP Notice:  Undefined variable: ttd in /home/simpelbi/public_html/display_imagex.php on line 16
+[14-Oct-2023 07:10:00 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 07:10:00 UTC] PHP Notice:  Undefined variable: ttd in /home/simpelbi/public_html/display_imagex.php on line 16
+[14-Oct-2023 07:10:01 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 07:10:01 UTC] PHP Notice:  Undefined variable: ttd in /home/simpelbi/public_html/display_imagex.php on line 16
+[14-Oct-2023 07:10:01 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 07:10:01 UTC] PHP Notice:  Undefined variable: ttd in /home/simpelbi/public_html/display_imagex.php on line 16
+[14-Oct-2023 07:10:01 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 07:10:01 UTC] PHP Notice:  Undefined variable: ttd in /home/simpelbi/public_html/display_imagex.php on line 16
+[14-Oct-2023 07:23:58 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 07:23:58 UTC] PHP Notice:  Undefined variable: ttd in /home/simpelbi/public_html/display_imagex.php on line 16
+[14-Oct-2023 07:24:31 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 07:35:30 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 07:35:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function determineImageType() in /home/simpelbi/public_html/display_imagex.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/display_imagex.php on line 14
+[14-Oct-2023 07:36:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/simpelbi/public_html/display_imagex.php on line 48
+[14-Oct-2023 07:37:03 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 07:37:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function determineImageType() in /home/simpelbi/public_html/display_imagex.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/display_imagex.php on line 14
+[14-Oct-2023 07:41:01 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 08:24:43 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 08:24:58 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 08:25:07 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 10:01:06 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 11:50:01 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 11:50:02 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 11:50:23 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 11:51:08 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 11:51:49 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 11:59:42 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 12:00:13 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 12:00:14 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 12:00:37 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 12:04:40 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 12:11:50 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 12:55:58 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 13:11:25 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 13:12:36 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 13:16:37 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 13:58:42 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 14:08:15 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 20:52:13 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 21:00:45 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 21:01:23 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 22:02:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[14-Oct-2023 22:02:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[14-Oct-2023 22:25:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/simpelbi/public_html/feedback.php:254
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback.php on line 254
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:26:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:27:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 256
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:29:34 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 257
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:30:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:10 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:28 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 22:31:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[14-Oct-2023 23:27:17 UTC] PHP Notice:  Undefined index: bid in /home/simpelbi/public_html/display_imagex.php on line 5
+[14-Oct-2023 23:29:57 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 16
+[14-Oct-2023 23:30:45 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 17
+[14-Oct-2023 23:30:45 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 17
+[14-Oct-2023 23:31:07 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 17
+[14-Oct-2023 23:31:07 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 17
+[14-Oct-2023 23:42:58 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 17
+[14-Oct-2023 23:42:58 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 17
+[14-Oct-2023 23:48:12 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 17
+[14-Oct-2023 23:48:12 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 17
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:35:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:37:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:38:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:46:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 289
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 290
+[15-Oct-2023 04:48:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:49:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 290
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 04:50:44 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 07:23:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 07:23:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:23:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:26:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:27:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:36:42 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 07:43:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 07:43:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:00 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 07:44:26 UTC] PHP Notice:  Undefined offset: 12 in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 07:44:28 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/simpelbi/public_html/feedback_in2.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 35
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:44:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:49:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 07:50:42 UTC] PHP Notice:  Undefined offset: 12 in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 07:50:46 UTC] PHP Notice:  Undefined offset: 17 in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 07:50:48 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/simpelbi/public_html/feedback_in2.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 35
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 07:51:22 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:11:12 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:18:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:20:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:21:19 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:21:44 UTC] PHP Notice:  Undefined offset: 0 in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:21:44 UTC] PHP Notice:  Undefined offset: 0 in /home/simpelbi/public_html/feedback_in2.php on line 14
+[15-Oct-2023 08:21:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/simpelbi/public_html/feedback_in2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 17
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:22:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:25:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/simpelbi/public_html/feedback_in2.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 21
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:31 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:25:37 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:25:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/simpelbi/public_html/feedback_in2.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 21
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:26:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:29:03 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:31:32 UTC] PHP Notice:  Undefined variable: conn in /home/simpelbi/public_html/feedback_in2.php on line 14
+[15-Oct-2023 08:31:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/simpelbi/public_html/feedback_in2.php on line 14
+[15-Oct-2023 08:31:32 UTC] PHP Notice:  Undefined variable: conn in /home/simpelbi/public_html/feedback_in2.php on line 18
+[15-Oct-2023 08:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/simpelbi/public_html/feedback_in2.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 18
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:31:45 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:33:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 291
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:34:57 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 281
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:40:46 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 281
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:40:51 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 281
+[15-Oct-2023 08:43:20 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:21 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:21 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:21 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:21 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:21 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:22 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:22 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:23 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:23 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:23 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:24 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:24 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:24 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:24 UTC] PHP Notice:  Array to string conversion in /home/simpelbi/public_html/feedback_in2.php on line 13
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:43:51 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 281
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:49:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 281
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:16 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 293
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 08:55:55 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 293
+[15-Oct-2023 08:56:26 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/simpelbi/public_html/feedback_in2.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 35
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:08 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 293
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 258
+[15-Oct-2023 09:09:15 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 293
+[15-Oct-2023 09:09:47 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/simpelbi/public_html/feedback_in2.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 35
+[15-Oct-2023 09:33:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 203
+[15-Oct-2023 09:33:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/simpelbi/public_html/feedback.php on line 204
+[15-Oct-2023 09:33:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in /home/simpelbi/public_html/feedback.php:208
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback.php on line 208
+[15-Oct-2023 09:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in /home/simpelbi/public_html/feedback.php:208
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback.php on line 208
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined variable: show in /home/simpelbi/public_html/feedback.php on line 210
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 261
+[15-Oct-2023 09:34:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 296
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:35:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:39:54 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:40:06 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 09:40:25 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/simpelbi/public_html/feedback_in2.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 32
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:43:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:49:59 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 09:50:54 UTC] PHP Notice:  Undefined offset: 15 in /home/simpelbi/public_html/feedback_in2.php on line 14
+[15-Oct-2023 09:50:55 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/simpelbi/public_html/feedback_in2.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 32
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:56:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 09:56:59 UTC] PHP Notice:  Undefined offset: 15 in /home/simpelbi/public_html/feedback_in2.php on line 14
+[15-Oct-2023 09:57:03 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/simpelbi/public_html/feedback_in2.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 32
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 09:58:56 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 09:59:13 UTC] PHP Notice:  Undefined offset: 15 in /home/simpelbi/public_html/feedback_in2.php on line 14
+[15-Oct-2023 09:59:14 UTC] PHP Notice:  Undefined index: $val in /home/simpelbi/public_html/feedback_in2.php on line 27
+[15-Oct-2023 09:59:14 UTC] PHP Warning:  Use of undefined constant ss - assumed 'ss' (this will throw an Error in a future version of PHP) in /home/simpelbi/public_html/feedback_in2.php on line 31
+[15-Oct-2023 09:59:14 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/simpelbi/public_html/feedback_in2.php on line 31
+[15-Oct-2023 09:59:14 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/simpelbi/public_html/feedback_in2.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 43
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:30 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:03:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 10:04:25 UTC] PHP Notice:  Undefined index: $val in /home/simpelbi/public_html/feedback_in2.php on line 22
+[15-Oct-2023 10:04:25 UTC] PHP Warning:  Use of undefined constant ss - assumed 'ss' (this will throw an Error in a future version of PHP) in /home/simpelbi/public_html/feedback_in2.php on line 25
+[15-Oct-2023 10:04:25 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/simpelbi/public_html/feedback_in2.php on line 25
+[15-Oct-2023 10:04:25 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/simpelbi/public_html/feedback_in2.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 35
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:06:18 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 10:06:48 UTC] PHP Notice:  Undefined index: $val in /home/simpelbi/public_html/feedback_in2.php on line 24
+[15-Oct-2023 10:06:48 UTC] PHP Warning:  Use of undefined constant ss - assumed 'ss' (this will throw an Error in a future version of PHP) in /home/simpelbi/public_html/feedback_in2.php on line 27
+[15-Oct-2023 10:06:48 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/simpelbi/public_html/feedback_in2.php on line 27
+[15-Oct-2023 10:06:48 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/simpelbi/public_html/feedback_in2.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 37
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:08:43 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:09:23 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 10:10:00 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/simpelbi/public_html/feedback_in2.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/simpelbi/public_html/feedback_in2.php on line 45
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:11:07 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 17:29:49 Asia/Bangkok] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 63
+[15-Oct-2023 17:36:35 Asia/Bangkok] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 63
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:36 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:46:49 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 10:54:32 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 12:39:40 UTC] PHP Notice:  Undefined index: id in /home/simpelbi/public_html/complaint_done.php on line 195
+[15-Oct-2023 13:25:13 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 17
+[15-Oct-2023 13:25:13 UTC] PHP Notice:  Undefined variable: imageType in /home/simpelbi/public_html/display_image.php on line 17
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:26 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:27:39 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:41 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:28:48 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:13 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 13:30:27 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[16-Oct-2023 00:41:13 Asia/Bangkok] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/simpelbi/public_html/complaint_in.php on line 63
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[15-Oct-2023 18:19:29 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:05:50 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 270
+[16-Oct-2023 10:06:02 UTC] PHP Notice:  Undefined index: tipe in /home/simpelbi/public_html/feedback.php on line 305
